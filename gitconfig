@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = m.vonwrede@gmx.de
+	name = Marcus von Wrede
